@@ -1,0 +1,29 @@
+body{
+    background-color: papayawhip;
+    font-size: medium;
+}
+
+div{
+width: 50%;
+}
+
+.text_images_and_results{
+    background-color: wheat;
+    text-align: left;
+}  
+
+.mini_result{
+    background-color:#fa9be8;
+    text-align: center;
+    border-radius: 20px;
+}
+
+
+.copyright-footer {
+ position: fixed;
+ color: #6c757d;
+ bottom: 0; width: 100%;
+ background-color: #f5f5f5;
+line-height: 3;
+text-align: center; 
+}
